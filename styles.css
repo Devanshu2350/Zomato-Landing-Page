@@ -390,14 +390,5 @@
     }
   }
   
-  @media only screen and (max-width: 700px) {
-    .get__the_app {
-      padding: 3rem 0;
-    }
   
-    .get__the_app .semiContainer {
-      width: 80%;
-      flex-direction: column;
-    }
-  }
   
